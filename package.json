@@ -1,0 +1,17 @@
+{
+  "name": "Parallel",
+  "version": "1.0.0",
+  "description": "Run Node.js tasks in parallel",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuri0/Parallel"
+  },
+  "author": "Yuri Sulyma",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/yuri0/Parallel/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/yuri0/Parallel/issues"
+  }
+}
